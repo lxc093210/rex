@@ -143,4 +143,3 @@ async function loadDetail(link) {
   }
   return null;
 }
-
